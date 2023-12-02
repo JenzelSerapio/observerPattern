@@ -1,4 +1,4 @@
-# observerPattern
+# Observer Pattern
 
 Real-time News Subscription Service
 
